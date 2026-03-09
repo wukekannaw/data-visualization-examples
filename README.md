@@ -1,5 +1,6 @@
-# data-visualization-examples
-Exploring data-visualization-examples
+# Data Visualization Examples
+
+This repository contains various examples and projects related to data visualization techniques and libraries. The aim is to explore different ways of visualizing data effectively.
 
 ## FAQ
 
